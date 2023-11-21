@@ -1,12 +1,6 @@
 # Uber-GCP-Data-Pipeline
 
-<p align="center">
-  <a>
-    <img src="./logo-white.png" width="150" height="150">
-  </a>
-</p>
-
-<h1 align="center">End-to-End MLOps: From Data to Deployment</h1>
+<h1 align="center">Uber Data Analytics | End-To-End Data Engineering Pipeline</h1>
 
 <p align="center">
   <a href="https://www.python.org/">
